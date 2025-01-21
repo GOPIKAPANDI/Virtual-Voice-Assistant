@@ -1,0 +1,17 @@
+get uptime
+Uptime: 14 days 15 hrs 54 mins 39 secs
+OK
+[Jrkscli: 
+
+get version
+Ruckus R760 Multimedia Hotzone Wireless AP, FCC ID: S9GR760
+Version: 7.0.0.0.6399
+OK
+[Jrkscli: 
+
+get version
+Ruckus R760 Multimedia Hotzone Wireless AP, FCC ID: S9GR760
+Version: 7.0.0.0.6399
+OK
+[Jrkscli: 
+

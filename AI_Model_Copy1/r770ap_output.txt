@@ -1,0 +1,153 @@
+get client-info
+summary:
+Total Clients: 25
+
+=====================================
+   Unknown         :   1 (   4.0% )
+-------------------------------------
+   Unknown         :   1 ( 100.0% ) 
+
+=====================================
+   Laptop          :  24 (  96.0% )
+-------------------------------------
+   Windows         :  23 (  95.8% ) 
+   macOS           :   1 (   4.2% ) 
+OK
+[Jrkscli: 
+
+get client-info
+summary:
+Total Clients: 25
+
+=====================================
+   Unknown         :   1 (   4.0% )
+-------------------------------------
+   Unknown         :   1 ( 100.0% ) 
+
+=====================================
+   Laptop          :  24 (  96.0% )
+-------------------------------------
+   Windows         :  23 (  95.8% ) 
+   macOS           :   1 (   4.2% ) 
+OK
+[Jrkscli: 
+
+get client-info
+summary:
+Total Clients: 25
+
+=====================================
+   Unknown         :   1 (   4.0% )
+-------------------------------------
+   Unknown         :   1 ( 100.0% ) 
+
+=====================================
+   Laptop          :  24 (  96.0% )
+-------------------------------------
+   Windows         :  23 (  95.8% ) 
+   macOS           :   1 (   4.2% ) 
+OK
+[Jrkscli: 
+
+get channel wifi1
+wifi1 Channel: 60 (5300 Mhz) (Manual Channel Select)
+OK
+[Jrkscli: 
+
+get version
+Ruckus R770 Multimedia Hotzone Wireless AP
+Version: 7.0.0.0.6365
+OK
+[Jrkscli: 
+
+get ipaddr wan
+IP Address: (dynamic, vlan 1), IP: 10.174.122.37  Netmask 255.255.252.0  Gateway 10.174.120.1
+OK
+[Jrkscli: 
+
+get client-info
+summary:
+Total Clients: 24
+
+=====================================
+   Laptop          :  23 (  95.8% )
+-------------------------------------
+   Windows         :  23 ( 100.0% ) 
+
+=====================================
+   Smartphone      :   1 (   4.2% )
+-------------------------------------
+   Android         :   1 ( 100.0% ) 
+OK
+[Jrkscli: 
+
+get wlanlist
+name          status   type   wlanID   radioID  bssid             ssid                            
+--------------------------------------------------------------------------------------------------
+wlan0         down     AP     wlan0    0        00:00:00:00:00:00 Wireless0                       
+wlan1         down     AP     wlan1    0        00:00:00:00:00:00 Wireless1                       
+wlan2         down     AP     wlan2    0        00:00:00:00:00:00 Wireless2                       
+wlan3         down     AP     wlan3    0        00:00:00:00:00:00 Wireless3                       
+wlan4         down     AP     wlan4    0        00:00:00:00:00:00 Wireless4                       
+wlan5         down     AP     wlan5    0        00:00:00:00:00:00 Wireless5                       
+wlan6         down     AP     wlan6    0        00:00:00:00:00:00 Wireless6                       
+wlan7         down     AP     wlan7    0        00:00:00:00:00:00 Wireless8                       
+wlan8         down     AP     wlan8    0        00:00:00:00:00:00 Wireless 8                      
+wlan9         down     AP     wlan9    0        00:00:00:00:00:00 Wireless 9                      
+wlan10        down     AP     wlan10   0        00:00:00:00:00:00 Wireless 10                     
+wlan11        down     AP     wlan11   0        00:00:00:00:00:00 Wireless 11                     
+wlan12        down     AP     wlan12   0        00:00:00:00:00:00 Wireless 12                     
+wlan13        down     AP     wlan13   0        00:00:00:00:00:00 Wireless 13                     
+meshu         down     STA    wlan31   0        00:00:00:00:00:00 ruckus_cluster                  
+wlan100       down     MON    wlan100  0        00:00:00:00:00:00                                 
+recovery-ssid down     AP     wlan102  0        00:00:00:00:00:00 Recover.Me-009850               
+wlan32        up       AP     wlan32   1        cc:1b:5a:80:98:50 HD MS Teams - 5G                
+wlan33        down     AP     wlan33   1        00:00:00:00:00:00 Wireless33                      
+wlan34        down     AP     wlan34   1        00:00:00:00:00:00 Wireless34                      
+wlan35        down     AP     wlan35   1        00:00:00:00:00:00 Wireless35                      
+wlan36        down     AP     wlan36   1        00:00:00:00:00:00 Wireless36                      
+wlan37        down     AP     wlan37   1        00:00:00:00:00:00 Wireless37                      
+wlan38        down     AP     wlan38   1        00:00:00:00:00:00 Wireless38                      
+wlan39        down     AP     wlan39   1        00:00:00:00:00:00 Wireless16                      
+wlan40        down     AP     wlan40   1        00:00:00:00:00:00 Wireless 40                     
+wlan41        down     AP     wlan41   1        00:00:00:00:00:00 Wireless 41                     
+wlan42        down     AP     wlan42   1        00:00:00:00:00:00 Wireless 42                     
+wlan43        down     AP     wlan43   1        00:00:00:00:00:00 Wireless 43                     
+wlan44        down     AP     wlan44   1        00:00:00:00:00:00 Wireless 44                     
+wlan45        down     AP     wlan45   1        00:00:00:00:00:00 Wireless 45                     
+meshu         down     STA    wlan63   1        00:00:00:00:00:00 Wireless64                      
+wlan110       down     MON    wlan110  1        00:00:00:00:00:00                                 
+wlan64        down     AP     wlan64   2        00:00:00:00:00:00 Wireless17                      
+wlan65        down     AP     wlan65   2        00:00:00:00:00:00 Wireless18                      
+wlan66        down     AP     wlan66   2        00:00:00:00:00:00 Wireless19                      
+wlan67        down     AP     wlan67   2        00:00:00:00:00:00 Wireless20                      
+wlan68        down     AP     wlan68   2        00:00:00:00:00:00 Wireless21                      
+meshu         down     STA    wlan95   2        00:00:00:00:00:00 Wireless96                      
+wlan120       down     MON    wlan120  2        00:00:00:00:00:00                                 
+wlan125       down     AP     wlan125  2        00:00:00:00:00:00                                 
+OK
+[Jrkscli: 
+
+get version
+Ruckus R770 Multimedia Hotzone Wireless AP
+Version: 7.0.0.0.6399
+OK
+[Jrkscli: 
+
+get version
+Ruckus R770 Multimedia Hotzone Wireless AP
+Version: 7.0.0.0.6399
+OK
+[Jrkscli: 
+
+get client-info
+summary:
+Total Clients: 1
+
+=====================================
+   Laptop          :   1 ( 100.0% )
+-------------------------------------
+   Windows         :   1 ( 100.0% ) 
+OK
+[Jrkscli: 
+

@@ -1,0 +1,974 @@
+2024-09-24 15:41:57,481 - INFO - This is an info message
+2024-09-24 15:41:57,482 - WARNING - This is a warning message
+2024-09-24 15:41:57,482 - ERROR - This is an error message
+2024-09-24 15:41:57,505 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 15:41:57,505 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 16:04:42,093 - INFO - This is an info message
+2024-09-24 16:04:42,094 - WARNING - This is a warning message
+2024-09-24 16:04:42,094 - ERROR - This is an error message
+2024-09-24 16:04:42,108 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 16:04:42,108 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 16:04:55,744 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-24 16:04:56,199 - INFO - Authentication (none) successful!
+2024-09-24 16:04:56,431 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-24 16:04:56,934 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-24 16:04:57,150 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-24 16:04:57,415 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+2024-09-24 16:04:57,478 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-24 16:04:57,541 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-24 16:04:57,651 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-24 16:05:20,651 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-24 16:05:20,995 - INFO - Authentication (none) successful!
+2024-09-24 16:05:21,290 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-24 16:05:21,587 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-24 16:05:21,806 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-24 16:05:22,168 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get countrycode
+
+2024-09-24 16:05:22,277 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-24 16:05:22,355 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-24 16:05:22,467 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-24 16:05:41,440 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-24 16:05:41,718 - INFO - Authentication (none) successful!
+2024-09-24 16:05:42,079 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-24 16:05:42,439 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-24 16:05:42,658 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-24 16:05:42,862 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get uptime
+
+2024-09-24 16:05:43,050 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-24 16:05:43,114 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-24 16:05:43,207 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-24 16:09:18,811 - INFO - This is an info message
+2024-09-24 16:09:18,811 - WARNING - This is a warning message
+2024-09-24 16:09:18,842 - ERROR - This is an error message
+2024-09-24 16:09:18,866 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 16:09:18,866 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 16:09:30,002 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-24 16:09:30,282 - INFO - Authentication (none) successful!
+2024-09-24 16:09:30,592 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-24 16:09:30,951 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-24 16:09:31,153 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-24 16:09:31,385 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+2024-09-24 16:09:31,448 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-24 16:09:31,494 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-24 16:09:31,586 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-24 16:09:47,623 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-24 16:09:47,953 - INFO - Authentication (none) successful!
+2024-09-24 16:09:48,311 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-24 16:09:48,640 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-24 16:09:48,842 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-24 16:09:49,471 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get countrycode
+
+2024-09-24 16:09:49,517 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-24 16:09:49,563 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-24 16:09:49,672 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-24 16:10:23,351 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-24 16:10:23,538 - INFO - Authentication (none) successful!
+2024-09-24 16:10:23,894 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-24 16:10:24,224 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-24 16:10:24,426 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-24 16:10:24,956 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+2024-09-24 16:10:25,269 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-24 16:10:25,332 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-24 16:10:25,394 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-24 16:10:40,544 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-24 16:10:40,917 - INFO - Authentication (none) successful!
+2024-09-24 16:10:41,241 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-24 16:10:41,537 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-24 16:10:41,678 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-24 16:10:42,067 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get ipaddr wan
+
+2024-09-24 16:10:42,431 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-24 16:10:42,492 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-24 16:10:42,538 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-24 18:08:33,042 - INFO - This is an info message
+2024-09-24 18:08:33,042 - WARNING - This is a warning message
+2024-09-24 18:08:33,043 - ERROR - This is an error message
+2024-09-24 18:08:33,066 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 18:08:33,067 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 18:42:24,318 - INFO - This is an info message
+2024-09-24 18:42:24,318 - WARNING - This is a warning message
+2024-09-24 18:42:24,319 - ERROR - This is an error message
+2024-09-24 18:42:24,334 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 18:42:24,335 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 18:50:25,652 - INFO - This is an info message
+2024-09-24 18:50:25,653 - WARNING - This is a warning message
+2024-09-24 18:50:25,653 - ERROR - This is an error message
+2024-09-24 18:50:25,679 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 18:50:25,680 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 18:57:53,205 - INFO - This is an info message
+2024-09-24 18:57:53,207 - WARNING - This is a warning message
+2024-09-24 18:57:53,207 - ERROR - This is an error message
+2024-09-24 18:57:53,227 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 18:57:53,229 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 19:08:58,020 - INFO - This is an info message
+2024-09-24 19:08:58,021 - WARNING - This is a warning message
+2024-09-24 19:08:58,022 - ERROR - This is an error message
+2024-09-24 19:08:58,040 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 19:08:58,043 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 19:26:14,101 - INFO - This is an info message
+2024-09-24 19:26:14,102 - WARNING - This is a warning message
+2024-09-24 19:26:14,102 - ERROR - This is an error message
+2024-09-24 19:26:14,123 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 19:26:14,124 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 20:09:29,449 - INFO - This is an info message
+2024-09-24 20:09:29,449 - WARNING - This is a warning message
+2024-09-24 20:09:29,449 - ERROR - This is an error message
+2024-09-24 20:09:29,484 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 20:09:29,484 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 20:12:15,062 - INFO - This is an info message
+2024-09-24 20:12:15,063 - WARNING - This is a warning message
+2024-09-24 20:12:15,064 - ERROR - This is an error message
+2024-09-24 20:12:15,081 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 20:12:15,082 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 20:33:08,975 - INFO - This is an info message
+2024-09-24 20:33:08,976 - WARNING - This is a warning message
+2024-09-24 20:33:08,977 - ERROR - This is an error message
+2024-09-24 20:33:08,997 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 20:33:08,998 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 20:37:46,576 - INFO - This is an info message
+2024-09-24 20:37:46,577 - WARNING - This is a warning message
+2024-09-24 20:37:46,578 - ERROR - This is an error message
+2024-09-24 20:37:46,595 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 20:37:46,596 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 20:47:53,370 - INFO - This is an info message
+2024-09-24 20:47:53,370 - WARNING - This is a warning message
+2024-09-24 20:47:53,371 - ERROR - This is an error message
+2024-09-24 20:47:53,385 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 20:47:53,385 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 20:52:00,430 - INFO - This is an info message
+2024-09-24 20:52:00,430 - WARNING - This is a warning message
+2024-09-24 20:52:00,431 - ERROR - This is an error message
+2024-09-24 20:52:00,451 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 20:52:00,452 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 20:54:33,884 - INFO - This is an info message
+2024-09-24 20:54:33,885 - WARNING - This is a warning message
+2024-09-24 20:54:33,886 - ERROR - This is an error message
+2024-09-24 20:54:33,926 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 20:54:33,927 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 22:27:39,503 - INFO - This is an info message
+2024-09-24 22:27:39,503 - WARNING - This is a warning message
+2024-09-24 22:27:39,504 - ERROR - This is an error message
+2024-09-24 22:27:39,522 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 22:27:39,523 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 22:31:21,063 - INFO - This is an info message
+2024-09-24 22:31:21,064 - WARNING - This is a warning message
+2024-09-24 22:31:21,065 - ERROR - This is an error message
+2024-09-24 22:31:21,083 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 22:31:21,084 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 22:32:51,365 - INFO - This is an info message
+2024-09-24 22:32:51,366 - WARNING - This is a warning message
+2024-09-24 22:32:51,367 - ERROR - This is an error message
+2024-09-24 22:32:51,382 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 22:32:51,383 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 22:37:43,903 - INFO - This is an info message
+2024-09-24 22:37:43,904 - WARNING - This is a warning message
+2024-09-24 22:37:43,904 - ERROR - This is an error message
+2024-09-24 22:37:43,926 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 22:37:43,927 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 22:38:39,778 - INFO - This is an info message
+2024-09-24 22:38:39,779 - WARNING - This is a warning message
+2024-09-24 22:38:39,780 - ERROR - This is an error message
+2024-09-24 22:38:39,797 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 22:38:39,800 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 22:39:22,215 - INFO - This is an info message
+2024-09-24 22:39:22,216 - WARNING - This is a warning message
+2024-09-24 22:39:22,217 - ERROR - This is an error message
+2024-09-24 22:39:22,236 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 22:39:22,237 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 22:51:45,194 - INFO - This is an info message
+2024-09-24 22:51:45,195 - WARNING - This is a warning message
+2024-09-24 22:51:45,196 - ERROR - This is an error message
+2024-09-24 22:51:45,213 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 22:51:45,214 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 22:53:56,886 - INFO - This is an info message
+2024-09-24 22:53:56,887 - WARNING - This is a warning message
+2024-09-24 22:53:56,888 - ERROR - This is an error message
+2024-09-24 22:53:56,918 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 22:53:56,919 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 22:59:08,792 - INFO - This is an info message
+2024-09-24 22:59:08,793 - WARNING - This is a warning message
+2024-09-24 22:59:08,793 - ERROR - This is an error message
+2024-09-24 22:59:08,817 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 22:59:08,817 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 23:00:41,790 - INFO - This is an info message
+2024-09-24 23:00:41,790 - WARNING - This is a warning message
+2024-09-24 23:00:41,791 - ERROR - This is an error message
+2024-09-24 23:00:41,805 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 23:00:41,806 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 23:01:23,785 - INFO - This is an info message
+2024-09-24 23:01:23,786 - WARNING - This is a warning message
+2024-09-24 23:01:23,787 - ERROR - This is an error message
+2024-09-24 23:01:23,803 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 23:01:23,804 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 23:02:34,621 - INFO - This is an info message
+2024-09-24 23:02:34,621 - WARNING - This is a warning message
+2024-09-24 23:02:34,622 - ERROR - This is an error message
+2024-09-24 23:02:34,642 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 23:02:34,643 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 23:04:14,357 - INFO - This is an info message
+2024-09-24 23:04:14,359 - WARNING - This is a warning message
+2024-09-24 23:04:14,360 - ERROR - This is an error message
+2024-09-24 23:04:14,373 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 23:04:14,374 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 23:06:02,594 - INFO - This is an info message
+2024-09-24 23:06:02,596 - WARNING - This is a warning message
+2024-09-24 23:06:02,597 - ERROR - This is an error message
+2024-09-24 23:06:02,611 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 23:06:02,613 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-24 23:27:59,992 - INFO - This is an info message
+2024-09-24 23:27:59,994 - WARNING - This is a warning message
+2024-09-24 23:27:59,994 - ERROR - This is an error message
+2024-09-24 23:28:00,020 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-24 23:28:00,022 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 11:07:13,495 - INFO - This is an info message
+2024-09-25 11:07:13,495 - WARNING - This is a warning message
+2024-09-25 11:07:13,495 - ERROR - This is an error message
+2024-09-25 11:07:13,527 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 11:07:13,528 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 11:12:36,133 - INFO - This is an info message
+2024-09-25 11:12:36,133 - WARNING - This is a warning message
+2024-09-25 11:12:36,133 - ERROR - This is an error message
+2024-09-25 11:12:36,149 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 11:12:36,157 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 11:19:21,696 - INFO - This is an info message
+2024-09-25 11:19:21,696 - WARNING - This is a warning message
+2024-09-25 11:19:21,696 - ERROR - This is an error message
+2024-09-25 11:19:21,718 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 11:19:21,718 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 12:04:20,943 - INFO - This is an info message
+2024-09-25 12:04:20,944 - WARNING - This is a warning message
+2024-09-25 12:04:20,945 - ERROR - This is an error message
+2024-09-25 12:04:20,960 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 12:04:20,961 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 12:14:49,720 - INFO - This is an info message
+2024-09-25 12:14:49,721 - WARNING - This is a warning message
+2024-09-25 12:14:49,722 - ERROR - This is an error message
+2024-09-25 12:14:49,742 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 12:14:49,743 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 12:53:45,714 - INFO - This is an info message
+2024-09-25 12:53:45,715 - WARNING - This is a warning message
+2024-09-25 12:53:45,715 - ERROR - This is an error message
+2024-09-25 12:53:45,741 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 12:53:45,742 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 13:11:30,302 - INFO - This is an info message
+2024-09-25 13:11:30,303 - WARNING - This is a warning message
+2024-09-25 13:11:30,303 - ERROR - This is an error message
+2024-09-25 13:11:30,321 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 13:11:30,321 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 13:15:25,488 - INFO - This is an info message
+2024-09-25 13:15:25,488 - WARNING - This is a warning message
+2024-09-25 13:15:25,488 - ERROR - This is an error message
+2024-09-25 13:15:25,510 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 13:15:25,511 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 14:05:15,726 - INFO - This is an info message
+2024-09-25 14:05:15,726 - WARNING - This is a warning message
+2024-09-25 14:05:15,727 - ERROR - This is an error message
+2024-09-25 14:05:15,744 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 14:05:15,745 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 14:07:40,693 - INFO - This is an info message
+2024-09-25 14:07:40,694 - WARNING - This is a warning message
+2024-09-25 14:07:40,694 - ERROR - This is an error message
+2024-09-25 14:07:40,714 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 14:07:40,715 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 14:13:43,340 - INFO - This is an info message
+2024-09-25 14:13:43,340 - WARNING - This is a warning message
+2024-09-25 14:13:43,340 - ERROR - This is an error message
+2024-09-25 14:13:43,358 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 14:13:43,359 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 14:30:41,477 - INFO - This is an info message
+2024-09-25 14:30:41,477 - WARNING - This is a warning message
+2024-09-25 14:30:41,477 - ERROR - This is an error message
+2024-09-25 14:30:41,503 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 14:30:41,503 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 14:34:53,722 - INFO - This is an info message
+2024-09-25 14:34:53,722 - WARNING - This is a warning message
+2024-09-25 14:34:53,722 - ERROR - This is an error message
+2024-09-25 14:34:53,746 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 14:34:53,746 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 14:35:40,458 - INFO - This is an info message
+2024-09-25 14:35:40,458 - WARNING - This is a warning message
+2024-09-25 14:35:40,458 - ERROR - This is an error message
+2024-09-25 14:35:40,479 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 14:35:40,479 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 14:38:12,768 - INFO - This is an info message
+2024-09-25 14:38:12,768 - WARNING - This is a warning message
+2024-09-25 14:38:12,768 - ERROR - This is an error message
+2024-09-25 14:38:12,791 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 14:38:12,799 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 14:43:16,854 - INFO - This is an info message
+2024-09-25 14:43:16,854 - WARNING - This is a warning message
+2024-09-25 14:43:16,854 - ERROR - This is an error message
+2024-09-25 14:43:16,870 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 14:43:16,870 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 14:43:27,670 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-25 14:43:28,137 - INFO - Authentication (none) successful!
+2024-09-25 14:43:28,446 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-25 14:43:28,811 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-25 14:43:29,055 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-25 14:43:29,305 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+2024-09-25 14:43:29,369 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.56
+2024-09-25 14:43:29,399 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.56...
+2024-09-25 14:43:29,470 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-25 14:43:46,820 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-25 14:43:47,103 - INFO - Authentication (none) successful!
+2024-09-25 14:43:47,318 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-25 14:43:47,595 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-25 14:43:47,790 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-25 14:43:48,235 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get countrycode
+
+2024-09-25 14:43:48,481 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-25 14:43:48,536 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-25 14:43:48,631 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-25 14:44:02,186 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-25 14:44:02,568 - INFO - Authentication (none) successful!
+2024-09-25 14:44:02,741 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-25 14:44:03,078 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-25 14:44:03,280 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-25 14:44:03,464 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get uptime
+
+2024-09-25 14:44:03,503 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.38
+2024-09-25 14:44:03,553 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.38...
+2024-09-25 14:44:03,653 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-25 14:44:20,052 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-25 14:44:20,453 - INFO - Authentication (none) successful!
+2024-09-25 14:44:20,702 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-25 14:44:20,952 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-25 14:44:21,103 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-25 14:44:21,368 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+2024-09-25 14:44:21,413 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.56
+2024-09-25 14:44:21,485 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.56...
+2024-09-25 14:44:21,552 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-25 14:48:11,312 - INFO - This is an info message
+2024-09-25 14:48:11,313 - WARNING - This is a warning message
+2024-09-25 14:48:11,313 - ERROR - This is an error message
+2024-09-25 14:48:11,328 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 14:48:11,334 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 14:48:21,653 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-25 14:48:21,920 - INFO - Authentication (none) successful!
+2024-09-25 14:48:22,202 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-25 14:48:22,600 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-25 14:48:22,765 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-25 14:48:23,085 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+2024-09-25 14:48:23,110 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-25 14:48:23,178 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-25 14:48:23,237 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-25 14:49:26,013 - INFO - This is an info message
+2024-09-25 14:49:26,028 - WARNING - This is a warning message
+2024-09-25 14:49:26,028 - ERROR - This is an error message
+2024-09-25 14:49:26,031 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 14:49:26,031 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 14:49:34,568 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-25 14:49:35,014 - INFO - Authentication (none) successful!
+2024-09-25 14:49:35,399 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-25 14:49:35,643 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-25 14:49:35,807 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-25 14:49:36,191 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+2024-09-25 14:49:36,299 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-25 14:49:36,368 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-25 14:49:36,435 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-25 14:51:43,231 - INFO - This is an info message
+2024-09-25 14:51:43,231 - WARNING - This is a warning message
+2024-09-25 14:51:43,231 - ERROR - This is an error message
+2024-09-25 14:51:43,250 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 14:51:43,250 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 14:51:51,389 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-25 14:51:51,847 - INFO - Authentication (none) successful!
+2024-09-25 14:51:52,194 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-25 14:51:52,585 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-25 14:51:52,772 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-25 14:51:53,039 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+2024-09-25 14:51:53,106 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-25 14:51:53,164 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-25 14:51:53,249 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-25 14:52:07,489 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-25 14:52:07,970 - INFO - Authentication (none) successful!
+2024-09-25 14:52:08,255 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-25 14:52:08,575 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-25 14:52:08,823 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-25 14:52:08,995 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get countrycode
+
+2024-09-25 14:52:09,072 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-25 14:52:09,130 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-25 14:52:09,205 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-25 14:52:21,105 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-25 14:52:21,513 - INFO - Authentication (none) successful!
+2024-09-25 14:52:21,736 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-25 14:52:21,930 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-25 14:52:22,138 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-25 14:52:22,772 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+2024-09-25 14:52:22,838 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-25 14:52:22,888 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-25 14:52:22,995 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-25 14:52:38,454 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-25 14:52:38,779 - INFO - Authentication (none) successful!
+2024-09-25 14:52:39,203 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-25 14:52:39,471 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-25 14:52:39,722 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-25 14:52:40,061 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get uptime
+
+2024-09-25 14:52:40,229 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-25 14:52:40,288 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-25 14:52:40,379 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-25 14:53:06,279 - INFO - Connected (version 2.0, client OpenSSH_8.4)
+2024-09-25 14:53:06,553 - INFO - Authentication (none) successful!
+2024-09-25 14:53:06,901 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-25 14:53:07,241 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+
+2024-09-25 14:53:07,408 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-25 14:53:07,686 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get ipaddr wan
+
+2024-09-25 14:53:07,737 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
+2024-09-25 14:53:07,787 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+2024-09-25 14:53:07,894 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-25 15:00:13,816 - INFO - This is an info message
+2024-09-25 15:00:13,816 - WARNING - This is a warning message
+2024-09-25 15:00:13,816 - ERROR - This is an error message
+2024-09-25 15:00:13,832 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 15:00:13,832 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 15:10:57,828 - INFO - This is an info message
+2024-09-25 15:10:57,828 - WARNING - This is a warning message
+2024-09-25 15:10:57,828 - ERROR - This is an error message
+2024-09-25 15:10:57,844 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 15:10:57,844 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 15:14:28,015 - INFO - This is an info message
+2024-09-25 15:14:28,015 - WARNING - This is a warning message
+2024-09-25 15:14:28,015 - ERROR - This is an error message
+2024-09-25 15:14:28,031 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 15:14:28,031 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 15:18:45,117 - INFO - This is an info message
+2024-09-25 15:18:45,117 - WARNING - This is a warning message
+2024-09-25 15:18:45,123 - ERROR - This is an error message
+2024-09-25 15:18:45,131 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 15:18:45,131 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 15:32:34,484 - INFO - This is an info message
+2024-09-25 15:32:34,484 - WARNING - This is a warning message
+2024-09-25 15:32:34,484 - ERROR - This is an error message
+2024-09-25 15:32:34,517 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 15:32:34,517 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 15:35:41,319 - INFO - This is an info message
+2024-09-25 15:35:41,319 - WARNING - This is a warning message
+2024-09-25 15:35:41,319 - ERROR - This is an error message
+2024-09-25 15:35:41,335 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 15:35:41,339 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 15:45:18,386 - INFO - This is an info message
+2024-09-25 15:45:18,392 - WARNING - This is a warning message
+2024-09-25 15:45:18,392 - ERROR - This is an error message
+2024-09-25 15:45:18,405 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 15:45:18,405 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 15:49:47,377 - INFO - This is an info message
+2024-09-25 15:49:47,377 - WARNING - This is a warning message
+2024-09-25 15:49:47,383 - ERROR - This is an error message
+2024-09-25 15:49:47,401 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 15:49:47,401 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 15:52:01,633 - INFO - This is an info message
+2024-09-25 15:52:01,641 - WARNING - This is a warning message
+2024-09-25 15:52:01,641 - ERROR - This is an error message
+2024-09-25 15:52:01,657 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 15:52:01,657 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 16:11:03,188 - INFO - This is an info message
+2024-09-25 16:11:03,188 - WARNING - This is a warning message
+2024-09-25 16:11:03,196 - ERROR - This is an error message
+2024-09-25 16:11:03,204 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 16:11:03,213 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 19:58:42,631 - INFO - This is an info message
+2024-09-25 19:58:42,632 - WARNING - This is a warning message
+2024-09-25 19:58:42,633 - ERROR - This is an error message
+2024-09-25 19:58:42,675 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 19:58:42,677 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 20:02:35,205 - INFO - This is an info message
+2024-09-25 20:02:35,206 - WARNING - This is a warning message
+2024-09-25 20:02:35,208 - ERROR - This is an error message
+2024-09-25 20:02:35,225 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 20:02:35,225 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 20:05:17,001 - INFO - This is an info message
+2024-09-25 20:05:17,001 - WARNING - This is a warning message
+2024-09-25 20:05:17,002 - ERROR - This is an error message
+2024-09-25 20:05:17,021 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-25 20:05:17,022 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-25 20:11:30,937 - INFO - ====== WebDriver manager ======
+2024-09-25 20:11:32,332 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-25 20:11:32,501 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-25 20:11:32,653 - INFO - Driver [C:\Users\gr1073\.wdm\drivers\chromedriver\win64\129.0.6668.70\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-26 11:47:33,862 - INFO - This is an info message
+2024-09-26 11:47:33,868 - WARNING - This is a warning message
+2024-09-26 11:47:33,868 - ERROR - This is an error message
+2024-09-26 11:47:33,932 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-26 11:47:33,932 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-26 12:02:08,647 - INFO - This is an info message
+2024-09-26 12:02:08,647 - WARNING - This is a warning message
+2024-09-26 12:02:08,647 - ERROR - This is an error message
+2024-09-26 12:02:08,663 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-26 12:02:08,663 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-26 12:43:06,414 - INFO - This is an info message
+2024-09-26 12:43:06,414 - WARNING - This is a warning message
+2024-09-26 12:43:06,414 - ERROR - This is an error message
+2024-09-26 12:43:06,439 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-26 12:43:06,441 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-26 12:51:52,114 - INFO - This is an info message
+2024-09-26 12:51:52,114 - WARNING - This is a warning message
+2024-09-26 12:51:52,116 - ERROR - This is an error message
+2024-09-26 12:51:52,132 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-26 12:51:52,132 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-26 14:28:17,973 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-26 14:28:18,245 - INFO - Authentication (none) successful!
+2024-09-26 14:28:18,463 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-26 14:28:18,696 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-26 14:28:18,817 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-26 14:28:19,321 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get ipaddr wan
+
+2024-09-26 14:28:19,353 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.56
+2024-09-26 14:28:19,394 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.56...
+2024-09-26 14:28:19,466 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-26 14:28:48,794 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-26 14:28:48,939 - INFO - Authentication (none) successful!
+2024-09-26 14:28:49,116 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-26 14:28:49,436 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-26 14:28:49,548 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-26 14:28:49,862 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+2024-09-26 14:28:49,910 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.56
+2024-09-26 14:28:49,950 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.56...
+2024-09-26 14:28:49,992 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-26 14:30:30,153 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-26 14:30:30,398 - INFO - Authentication (none) successful!
+2024-09-26 14:30:30,696 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-26 14:30:30,970 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-26 14:30:31,175 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-26 14:30:31,375 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+2024-09-26 14:30:31,736 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.38
+2024-09-26 14:30:31,792 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.38...
+2024-09-26 14:30:31,841 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-26 14:33:16,582 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-26 14:33:16,800 - INFO - Authentication (none) successful!
+2024-09-26 14:33:17,080 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-26 14:33:17,345 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-26 14:33:17,533 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-26 14:33:17,894 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+2024-09-26 14:33:17,958 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.38
+2024-09-26 14:33:18,006 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.38...
+2024-09-26 14:33:18,142 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-26 16:00:04,683 - INFO - This is an info message
+2024-09-26 16:00:04,683 - WARNING - This is a warning message
+2024-09-26 16:00:04,684 - ERROR - This is an error message
+2024-09-26 16:00:04,704 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-26 16:00:04,705 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-26 16:00:15,178 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-26 16:00:15,461 - INFO - Authentication (none) successful!
+2024-09-26 16:00:15,728 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-26 16:00:16,109 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-26 16:00:16,273 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-26 16:00:16,549 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+
+2024-09-26 16:00:16,581 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-26 16:00:16,645 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-26 16:00:16,770 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-26 16:02:51,057 - INFO - This is an info message
+2024-09-26 16:02:51,058 - WARNING - This is a warning message
+2024-09-26 16:02:51,059 - ERROR - This is an error message
+2024-09-26 16:02:51,080 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-26 16:02:51,082 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-26 16:02:59,154 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-26 16:02:59,498 - INFO - Authentication (none) successful!
+2024-09-26 16:02:59,652 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-26 16:02:59,887 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-26 16:03:00,092 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-26 16:03:00,202 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+
+2024-09-26 16:03:00,264 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-26 16:03:00,312 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-26 16:03:00,390 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-26 16:03:14,359 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-26 16:03:14,862 - INFO - Authentication (none) successful!
+2024-09-26 16:03:15,079 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-26 16:03:15,346 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-26 16:03:15,614 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-26 16:03:15,958 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+
+2024-09-26 16:03:16,021 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-26 16:03:16,067 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-26 16:03:16,161 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-26 16:03:48,224 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-26 16:03:48,567 - INFO - Authentication (none) successful!
+2024-09-26 16:03:48,952 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-26 16:03:49,157 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-26 16:03:49,313 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-26 16:03:49,615 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+2024-09-26 16:03:49,662 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-26 16:03:49,709 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-26 16:03:49,818 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-26 20:11:38,037 - INFO - This is an info message
+2024-09-26 20:11:38,037 - WARNING - This is a warning message
+2024-09-26 20:11:38,037 - ERROR - This is an error message
+2024-09-26 20:11:38,072 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-26 20:11:38,072 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-26 23:57:30,907 - INFO - This is an info message
+2024-09-26 23:57:30,907 - WARNING - This is a warning message
+2024-09-26 23:57:30,907 - ERROR - This is an error message
+2024-09-26 23:57:30,938 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-26 23:57:30,938 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-26 23:57:35,755 - INFO - This is an info message
+2024-09-26 23:57:35,755 - WARNING - This is a warning message
+2024-09-26 23:57:35,755 - ERROR - This is an error message
+2024-09-26 23:57:35,775 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-26 23:57:35,775 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-27 10:53:52,056 - INFO - This is an info message
+2024-09-27 10:53:52,056 - WARNING - This is a warning message
+2024-09-27 10:53:52,056 - ERROR - This is an error message
+2024-09-27 10:53:52,090 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-27 10:53:52,090 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-27 10:59:51,699 - INFO - This is an info message
+2024-09-27 10:59:51,699 - WARNING - This is a warning message
+2024-09-27 10:59:51,707 - ERROR - This is an error message
+2024-09-27 10:59:51,724 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-27 10:59:51,724 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-27 11:08:02,756 - INFO - This is an info message
+2024-09-27 11:08:02,756 - WARNING - This is a warning message
+2024-09-27 11:08:02,756 - ERROR - This is an error message
+2024-09-27 11:08:02,776 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-27 11:08:02,777 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-27 11:16:45,913 - INFO - This is an info message
+2024-09-27 11:16:45,913 - WARNING - This is a warning message
+2024-09-27 11:16:45,913 - ERROR - This is an error message
+2024-09-27 11:16:45,928 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-27 11:16:45,944 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-27 11:20:57,802 - INFO - This is an info message
+2024-09-27 11:20:57,802 - WARNING - This is a warning message
+2024-09-27 11:20:57,802 - ERROR - This is an error message
+2024-09-27 11:20:57,835 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-27 11:20:57,835 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 10:12:45,239 - INFO - This is an info message
+2024-09-28 10:12:45,239 - WARNING - This is a warning message
+2024-09-28 10:12:45,239 - ERROR - This is an error message
+2024-09-28 10:12:45,289 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 10:12:45,289 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 10:12:58,679 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-28 10:12:59,130 - INFO - Authentication (none) successful!
+2024-09-28 10:12:59,397 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-28 10:12:59,704 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-28 10:12:59,865 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-28 10:13:19,427 - ERROR -  | AutoAcc | SshLibraryV2.py:153 | EOF recvd on channel
+2024-09-28 10:13:19,455 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP: 10.174.122.37  username: admin  password: Lab4man!@#
+2024-09-28 10:13:19,505 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-28 10:13:19,531 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-28 10:13:19,604 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-28 10:13:48,306 - INFO - This is an info message
+2024-09-28 10:13:48,306 - WARNING - This is a warning message
+2024-09-28 10:13:48,306 - ERROR - This is an error message
+2024-09-28 10:13:48,328 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 10:13:48,328 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 10:14:16,203 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-28 10:14:16,451 - INFO - Authentication (none) successful!
+2024-09-28 10:14:16,816 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-28 10:14:17,099 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-28 10:14:17,367 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-28 10:14:36,722 - ERROR -  | AutoAcc | SshLibraryV2.py:153 | EOF recvd on channel
+2024-09-28 10:14:36,740 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP: 10.174.122.37  username: admin  password: Lab4man!@#
+2024-09-28 10:14:36,762 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-28 10:14:36,785 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-28 10:14:36,857 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-28 10:16:56,027 - INFO - This is an info message
+2024-09-28 10:16:56,027 - WARNING - This is a warning message
+2024-09-28 10:16:56,027 - ERROR - This is an error message
+2024-09-28 10:16:56,049 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 10:16:56,049 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 10:18:32,385 - INFO - This is an info message
+2024-09-28 10:18:32,385 - WARNING - This is a warning message
+2024-09-28 10:18:32,385 - ERROR - This is an error message
+2024-09-28 10:18:32,403 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 10:18:32,403 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 10:18:41,562 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-28 10:18:42,025 - INFO - Authentication (none) successful!
+2024-09-28 10:18:42,408 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-28 10:18:42,810 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-28 10:18:42,963 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-28 10:18:43,126 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+2024-09-28 10:18:43,179 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-28 10:18:43,229 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-28 10:18:43,320 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-28 10:19:08,026 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-28 10:19:08,335 - INFO - Authentication (none) successful!
+2024-09-28 10:19:08,683 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-28 10:19:08,945 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-28 10:19:09,236 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-28 10:19:09,503 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get ipaddr wan
+
+2024-09-28 10:19:09,659 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-28 10:19:09,728 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-28 10:19:09,835 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-28 10:19:24,042 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-28 10:19:24,473 - INFO - Authentication (none) successful!
+2024-09-28 10:19:24,842 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-28 10:19:25,227 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-28 10:19:25,536 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-28 10:19:25,743 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+
+2024-09-28 10:19:25,781 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-28 10:19:25,844 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-28 10:19:25,960 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-28 11:57:19,588 - INFO - This is an info message
+2024-09-28 11:57:19,588 - WARNING - This is a warning message
+2024-09-28 11:57:19,589 - ERROR - This is an error message
+2024-09-28 11:57:19,610 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 11:57:19,611 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 12:11:46,669 - INFO - This is an info message
+2024-09-28 12:11:46,670 - WARNING - This is a warning message
+2024-09-28 12:11:46,670 - ERROR - This is an error message
+2024-09-28 12:11:46,689 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 12:11:46,690 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 12:15:46,374 - INFO - This is an info message
+2024-09-28 12:15:46,374 - WARNING - This is a warning message
+2024-09-28 12:15:46,376 - ERROR - This is an error message
+2024-09-28 12:15:46,400 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 12:15:46,402 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 12:16:58,818 - INFO - This is an info message
+2024-09-28 12:16:58,818 - WARNING - This is a warning message
+2024-09-28 12:16:58,819 - ERROR - This is an error message
+2024-09-28 12:16:58,832 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 12:16:58,832 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 12:32:50,641 - INFO - This is an info message
+2024-09-28 12:32:50,642 - WARNING - This is a warning message
+2024-09-28 12:32:50,642 - ERROR - This is an error message
+2024-09-28 12:32:50,672 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 12:32:50,672 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 12:39:36,672 - INFO - This is an info message
+2024-09-28 12:39:36,673 - WARNING - This is a warning message
+2024-09-28 12:39:36,674 - ERROR - This is an error message
+2024-09-28 12:39:36,694 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 12:39:36,695 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 13:19:34,990 - INFO - This is an info message
+2024-09-28 13:19:34,990 - WARNING - This is a warning message
+2024-09-28 13:19:34,991 - ERROR - This is an error message
+2024-09-28 13:19:35,011 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 13:19:35,012 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 13:21:25,539 - INFO - This is an info message
+2024-09-28 13:21:25,540 - WARNING - This is a warning message
+2024-09-28 13:21:25,541 - ERROR - This is an error message
+2024-09-28 13:21:25,561 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 13:21:25,562 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 13:25:52,603 - INFO - This is an info message
+2024-09-28 13:25:52,605 - WARNING - This is a warning message
+2024-09-28 13:25:52,606 - ERROR - This is an error message
+2024-09-28 13:25:52,621 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 13:25:52,622 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 13:58:47,619 - INFO - This is an info message
+2024-09-28 13:58:47,620 - WARNING - This is a warning message
+2024-09-28 13:58:47,620 - ERROR - This is an error message
+2024-09-28 13:58:47,637 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 13:58:47,637 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 14:15:34,560 - INFO - This is an info message
+2024-09-28 14:15:34,561 - WARNING - This is a warning message
+2024-09-28 14:15:34,561 - ERROR - This is an error message
+2024-09-28 14:15:34,580 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 14:15:34,581 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 14:16:21,884 - INFO - This is an info message
+2024-09-28 14:16:21,885 - WARNING - This is a warning message
+2024-09-28 14:16:21,886 - ERROR - This is an error message
+2024-09-28 14:16:21,901 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 14:16:21,902 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-28 14:29:34,390 - INFO - This is an info message
+2024-09-28 14:29:34,391 - WARNING - This is a warning message
+2024-09-28 14:29:34,391 - ERROR - This is an error message
+2024-09-28 14:29:34,416 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-28 14:29:34,417 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 09:38:13,733 - INFO - This is an info message
+2024-09-30 09:38:13,733 - WARNING - This is a warning message
+2024-09-30 09:38:13,733 - ERROR - This is an error message
+2024-09-30 09:38:13,769 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 09:38:13,769 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 09:39:47,673 - INFO - This is an info message
+2024-09-30 09:39:47,673 - WARNING - This is a warning message
+2024-09-30 09:39:47,673 - ERROR - This is an error message
+2024-09-30 09:39:47,695 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 09:39:47,695 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 09:40:01,606 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-30 09:40:02,009 - INFO - Authentication (none) successful!
+2024-09-30 09:40:02,132 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-30 09:40:02,585 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-30 09:40:02,825 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-30 09:40:22,157 - ERROR -  | AutoAcc | SshLibraryV2.py:153 | EOF recvd on channel
+2024-09-30 09:40:22,193 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP: 10.174.122.37  username: admin  password: Ruckus1!
+2024-09-30 09:40:22,243 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-30 09:40:22,293 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-30 09:40:22,393 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-30 09:41:29,274 - INFO - This is an info message
+2024-09-30 09:41:29,274 - WARNING - This is a warning message
+2024-09-30 09:41:29,277 - ERROR - This is an error message
+2024-09-30 09:41:29,285 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 09:41:29,285 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 09:42:00,165 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-30 09:42:00,612 - INFO - Authentication (none) successful!
+2024-09-30 09:42:00,913 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-30 09:42:01,297 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-30 09:42:01,463 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-30 09:42:01,628 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get wlanlist
+
+2024-09-30 09:42:03,207 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-30 09:42:03,257 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-30 09:42:03,298 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-30 10:03:26,250 - INFO - This is an info message
+2024-09-30 10:03:26,266 - WARNING - This is a warning message
+2024-09-30 10:03:26,266 - ERROR - This is an error message
+2024-09-30 10:03:26,283 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 10:03:26,283 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 10:03:38,371 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-30 10:03:38,654 - INFO - Authentication (none) successful!
+2024-09-30 10:03:38,874 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-30 10:03:39,271 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-30 10:03:39,395 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-30 10:03:39,578 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+2024-09-30 10:03:39,939 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-30 10:03:39,996 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-30 10:03:40,071 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-30 10:10:26,679 - INFO - This is an info message
+2024-09-30 10:10:26,679 - WARNING - This is a warning message
+2024-09-30 10:10:26,679 - ERROR - This is an error message
+2024-09-30 10:10:26,694 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 10:10:26,694 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 10:10:37,006 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-30 10:10:37,232 - INFO - Authentication (none) successful!
+2024-09-30 10:10:37,548 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-30 10:10:37,733 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-30 10:10:37,986 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-30 10:10:38,154 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+2024-09-30 10:10:38,255 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-30 10:10:38,273 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-30 10:10:38,427 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-30 10:11:10,509 - INFO - Connected (version 2.0, client OpenSSH_9.6)
+2024-09-30 10:11:10,841 - INFO - Authentication (none) successful!
+2024-09-30 10:11:11,062 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
+2024-09-30 10:11:11,343 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+
+2024-09-30 10:11:11,503 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-30 10:11:11,553 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+
+2024-09-30 10:11:11,597 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
+2024-09-30 10:11:11,653 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-30 10:11:11,747 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
+2024-09-30 14:14:11,793 - INFO - This is an info message
+2024-09-30 14:14:11,809 - WARNING - This is a warning message
+2024-09-30 14:14:11,809 - ERROR - This is an error message
+2024-09-30 14:14:11,814 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 14:14:11,814 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-10-04 21:13:56,512 - INFO - This is an info message
+2024-10-04 21:13:56,520 - WARNING - This is a warning message
+2024-10-04 21:13:56,523 - ERROR - This is an error message
+2024-10-05 18:20:00,436 - INFO - This is an info message
+2024-10-05 18:20:00,436 - WARNING - This is a warning message
+2024-10-05 18:20:00,436 - ERROR - This is an error message
+2024-10-05 18:23:26,177 - INFO - This is an info message
+2024-10-05 18:23:26,186 - WARNING - This is a warning message
+2024-10-05 18:23:26,186 - ERROR - This is an error message
+2024-10-05 18:24:38,963 - INFO - This is an info message
+2024-10-05 18:24:38,965 - WARNING - This is a warning message
+2024-10-05 18:24:38,965 - ERROR - This is an error message
+2024-10-05 18:26:59,517 - INFO - This is an info message
+2024-10-05 18:26:59,517 - WARNING - This is a warning message
+2024-10-05 18:26:59,517 - ERROR - This is an error message
+2024-10-05 18:27:19,021 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-10-05 18:27:19,063 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-10-05 18:34:26,599 - INFO - This is an info message
+2024-10-05 18:34:26,599 - WARNING - This is a warning message
+2024-10-05 18:34:26,599 - ERROR - This is an error message
+2024-10-05 18:35:02,619 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-10-05 18:35:02,658 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-10-05 18:38:31,765 - INFO - This is an info message
+2024-10-05 18:38:31,765 - WARNING - This is a warning message
+2024-10-05 18:38:31,771 - ERROR - This is an error message
+2024-10-05 18:38:31,781 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-10-05 18:38:31,781 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-10-05 18:39:22,346 - INFO - This is an info message
+2024-10-05 18:39:22,346 - WARNING - This is a warning message
+2024-10-05 18:39:22,346 - ERROR - This is an error message
+2024-10-05 18:39:41,675 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\gr1073\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-10-05 18:39:41,723 - INFO - Using writeable comtypes cache directory: 'C:\Users\gr1073\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-10-05 18:42:56,912 - INFO - This is an info message
+2024-10-05 18:42:56,912 - WARNING - This is a warning message
+2024-10-05 18:42:56,912 - ERROR - This is an error message
+2024-10-05 18:45:02,530 - INFO - This is an info message
+2024-10-05 18:45:02,530 - WARNING - This is a warning message
+2024-10-05 18:45:02,530 - ERROR - This is an error message

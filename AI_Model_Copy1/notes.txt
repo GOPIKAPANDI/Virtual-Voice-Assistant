@@ -1,0 +1,15 @@
+Installed chromedriver in this path C:\webdrivers
+change every paths for AI_Model folder
+pip install import statements
+
+###########For yt.ps1##########
+
+Copy the yt.ps1 in the path C:\Users\IT\Documents\yt_video in all clients
+make it open with pwshell always -> C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+pwshell -> administrator-> Set-ExecutionPolicy Unrestricted -Scope Process
+cd C:\Users\IT\Documents\yt_video
+.\yt.ps1 (It will run the video)
+To make it run by double click: Set-ExecutionPolicy Unrestricted -Scope CurrentUser
+
+################################
+
