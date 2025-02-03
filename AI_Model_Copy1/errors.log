@@ -155,11 +155,11 @@
 2024-09-28 10:12:45,239 - WARNING - This is a warning message
 2024-09-28 10:12:45,239 - ERROR - This is an error message
 2024-09-28 10:13:19,427 - ERROR -  | AutoAcc | SshLibraryV2.py:153 | EOF recvd on channel
-2024-09-28 10:13:19,455 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP: 10.174.122.37  username: admin  password: Lab4man!@#
+2024-09-28 10:13:19,455 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP:   username:  password: 
 2024-09-28 10:13:48,306 - WARNING - This is a warning message
 2024-09-28 10:13:48,306 - ERROR - This is an error message
 2024-09-28 10:14:36,722 - ERROR -  | AutoAcc | SshLibraryV2.py:153 | EOF recvd on channel
-2024-09-28 10:14:36,740 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP: 10.174.122.37  username: admin  password: Lab4man!@#
+2024-09-28 10:14:36,740 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. ""
 2024-09-28 10:16:56,027 - WARNING - This is a warning message
 2024-09-28 10:16:56,027 - ERROR - This is an error message
 2024-09-28 10:18:32,385 - WARNING - This is a warning message
@@ -195,7 +195,7 @@
 2024-09-30 09:39:47,673 - WARNING - This is a warning message
 2024-09-30 09:39:47,673 - ERROR - This is an error message
 2024-09-30 09:40:22,157 - ERROR -  | AutoAcc | SshLibraryV2.py:153 | EOF recvd on channel
-2024-09-30 09:40:22,193 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP: 10.174.122.37  username: admin  password: Ruckus1!
+2024-09-30 09:40:22,193 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. ""
 2024-09-30 09:41:29,274 - WARNING - This is a warning message
 2024-09-30 09:41:29,277 - ERROR - This is an error message
 2024-09-30 10:03:26,266 - WARNING - This is a warning message
