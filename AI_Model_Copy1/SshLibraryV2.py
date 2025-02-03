@@ -551,7 +551,7 @@ class SshLibraryV2:
 
 if __name__ == '__main__':
     obj = SshLibraryV2()
-    obj.ssh_connect(server="10.174.72.20", username="administrator", password="ruckus", prompt='$')
+    obj.ssh_connect(server="server_ip", username="administrator", password="ruckus", prompt='$')
     obj.ssh_write("cd")
     obj.ssh_close()
     #obj.ssh_read_until_prompt()
