@@ -79,7 +79,7 @@ def open_ruckus_analytics():
 def run_zoom_call():
     try:
         # Step 1: Open command prompt and run Zoom_Server.py
-        requests.post("http://10.74.143.31:8000/run_zoom_server/")
+        requests.post("http://ip:8000/run_zoom_server/")
         speak("Running Zoom Server.")
         
         # Step 2: Wait for 2 seconds
@@ -105,8 +105,8 @@ def run_zoom_call():
         password_field = chrome_driver.find_element(By.ID, "password")
         
         # Fill in email and password
-        email_field.send_keys("Ravikiran.mattaparti@commscope.com")  # Enter your email here
-        password_field.send_keys("Lab4man1!")  # Enter your password here
+        email_field.send_keys("email_id")  # Enter your email here
+        password_field.send_keys("pw")  # Enter your password here
         # speak("Entering credentials.")
         
         # Step 5: Click the sign-in button
@@ -161,7 +161,7 @@ def run_zoom_call():
 def run_zoom_client():
     try:
         # Send HTTP request to run Zoom_Client.py
-        requests.post("http://10.74.143.31:8000/run_zoom_client/")
+        requests.post("http://ip:8000/run_zoom_client/")
         speak("Running Zoom Client.")
         print("Zoom setup complete.")
     except Exception as e:
