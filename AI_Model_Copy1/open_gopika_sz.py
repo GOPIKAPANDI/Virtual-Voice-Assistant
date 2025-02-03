@@ -7,8 +7,8 @@ from selenium.webdriver.common.by import By
 
 def open_browser():
     # Use predefined username and password
-    username = "admin"
-    password = "ruckus1!"
+    username = "un"
+    password = "pw"
 
     # Set Chrome options to ignore SSL certificate errors
     chrome_options = Options()
@@ -21,7 +21,7 @@ def open_browser():
     driver = webdriver.Chrome(service=service, options=chrome_options)
 
     # Open the browser and navigate to the login page
-    url = "https://10.174.66.96:8443/cas/login?service=%2Fwsg%2Flogin%2Fcas#m/dashboard"
+    url = "https://ip:port/cas/login?service=%2Fwsg%2Flogin%2Fcas#m/dashboard"
     driver.get(url)
 
     # Fill in the username and password fields
