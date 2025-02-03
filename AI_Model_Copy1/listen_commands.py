@@ -54,13 +54,8 @@ is_executing_command = False
 #     engine.runAndWait()
 
 device_mapping = {
-    '10.74.143.59': 'device1','10.74.143.39': 'device2','10.74.143.29': 'device3','10.74.143.44': 'device4','10.74.140.30': 'device5',
-    '10.74.143.46': 'device6','10.74.143.36': 'device7','10.74.143.34': 'device8','10.74.143.22': 'device9','10.74.143.23': 'device10',
-    '10.74.143.43': 'device11','10.74.143.228': 'device12','10.74.143.35': 'device13','10.74.143.56': 'device14','10.74.140.68': 'device15',
-    '10.74.143.38': 'device16','10.74.140.24': 'device17','10.74.140.22': 'device18','10.74.140.25': 'device19','10.74.143.207': 'device20',
-    '10.74.143.195': 'device21','10.74.143.37': 'device22','10.74.143.40': 'device23','10.74.143.17': 'device24','10.74.143.47': 'device25',
-    '10.74.143.182': 'device26','10.74.140.74': 'device27','10.74.143.42': 'device28','10.74.140.31': 'device29','10.74.143.41': 'device30',
-    '10.74.140.43': 'device31','10.74.143.31': 'device32','10.74.140.72': 'device33'
+    'ip1': 'device1',
+    'ip2': 'device2'...
 }
 
 # Lists for mapping words to numbers
@@ -86,7 +81,7 @@ def word_to_number(word):
 
 def run_youtube_script():
     """Open Command Prompt in the specified directory and run youtube_mc.py with updated remote_ips."""
-    target_directory = r'C:\Users\gr1073\OneDrive - CommScope\Documents\AI_Model_Copy1'
+    target_directory = r'C:\AI_Model_Copy1'
     # Pass remote_ips as a command-line argument
     remote_ips_str = ','.join(remote_ips)
     print("remote_ips_str", remote_ips_str)
@@ -122,7 +117,7 @@ def run_youtube_script():
 
 def close_youtube_script():
     """Open Command Prompt in the specified directory and run youtube_mc.py to close YouTube on specified clients."""
-    target_directory = r'C:\Users\gr1073\OneDrive - CommScope\Documents\AI_Model_Copy1'
+    target_directory = r'C:\AI_Model_Copy1'
 
     remote_ips_str = ','.join(remote_ips)
     print("remote_ips_str", remote_ips_str)
@@ -194,7 +189,7 @@ def update_remote_ips(command):
 
 def handle_connection(command, ssid):
     # Call the FastAPI endpoint to connect clients with SSID as a query parameter
-    url = "http://10.74.143.31:8000/connect_clients/"
+    url = "http://ip:8000/connect_clients/"
     params = {"ssid": ssid}
 
     try:
@@ -218,7 +213,7 @@ def handle_connection(command, ssid):
 
 def handle_disconnection(command):
     # Call the FastAPI endpoint to disconnect clients
-    url = "http://10.74.143.31:8000/disconnect_clients/"
+    url = "http://ip:8000/disconnect_clients/"
     
     try:
         response = requests.post(url)  # Use POST method
@@ -540,7 +535,7 @@ def execute_command(command):
         speak("Attempting to run YouTube in specified clients, please wait for a minute.")
 
         # Send the command in the request body
-        url = "http://10.74.143.31:8000/update_remote_ips/"
+        url = "http://ip:8000/update_remote_ips/"
         data = {
             "command": command  # Sending the command directly
         }
@@ -570,7 +565,7 @@ def execute_command(command):
         speak("Attempting to close YouTube in specified clients, please wait for a minute.")
 
         # Send the command in the request body
-        url = "http://10.74.143.31:8000/update_remote_ips/"
+        url = "http://ip:8000/update_remote_ips/"
         data = {
             "command": command  # Sending the command directly
         }
