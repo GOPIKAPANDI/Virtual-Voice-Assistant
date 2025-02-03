@@ -8,8 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 def open_browser():
-    username = "Gopikapandi.Rr@ruckuswireless.com"
-    password = "Commscope@123"
+    username = "user_name"
+    password = "pw"
 
     chrome_options = Options()
     chrome_options.add_argument('--ignore-certificate-errors')
