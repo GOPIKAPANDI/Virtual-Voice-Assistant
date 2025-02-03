@@ -1782,7 +1782,7 @@ class ApCliV2:
 
 if __name__ == "__main__":
     ap = ApCliV2()
-    ap.login(ip='2001:2001:2001:2001:82f0:cfff:fe09:ed20', username='admin', password='ruckus1!')
+    ap.login(ip='ip_addr', username='admin', password='ruckus1!')
     ap.get_recovery_ssid()
     #ap.get_wlan_info('wlan32')
     #ap.login(ip='10.1.65.44', username='bala', password='bala')
