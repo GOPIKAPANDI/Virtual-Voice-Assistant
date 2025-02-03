@@ -8,16 +8,12 @@ from pathlib import Path
 import multiprocessing
 
 sta_list = [
-    '10.74.140.74','10.74.143.56','10.74.143.23', '10.74.140.22','10.74.140.28','10.74.140.30', '10.74.140.52',
-    '10.74.140.31','10.74.143.39', '10.74.143.182','10.74.140.24','10.74.140.72','10.74.143.44'
+    ip_list
 ]
 
 # IP address to device name mapping
 device_mapping = {
-    '10.74.140.74': 'device1' , '10.74.143.56': 'device2', '10.74.143.23': 'device3', '10.74.140.22': 'device4',
-    '10.74.140.28': 'device5', '10.74.140.30': 'device6', '10.74.140.52': 'device7','10.74.140.31': 'device8',
-    '10.74.143.39': 'device9','10.74.143.182': 'device10','10.74.140.24': 'device11','10.74.140.72': 'device12',
-    '10.74.143.44': 'device13'
+    'ip1': 'device1' , 'ip2': 'device2', 'ip3': 'device3'...
 }
 
 
@@ -76,9 +72,9 @@ def ssid_main():
     ssid = "HD MS Teams"
     name = "HD MS Teams"
     profile_name = "profile-hd-ms-teams"
-    folder_name = r"C:\Users\gr1073\OneDrive - CommScope\Documents\AI_Model_Copy1"
-    xml_file_path = r"C:\Users\gr1073\OneDrive - CommScope\Documents\AI_Model_Copy1\Wi-Fi-HD MS Teams.xml"
-    batch_file_path = r"C:\Users\gr1073\OneDrive - CommScope\Documents\AI_Model_Copy1\profile-hd-ms-teams.bat"
+    folder_name = r"C:\AI_Model_Copy1"
+    xml_file_path = r"C:\AI_Model_Copy1\Wi-Fi-HD MS Teams.xml"
+    batch_file_path = r"C:\AI_Model_Copy1\profile-hd-ms-teams.bat"
 
     queue = multiprocessing.Queue()
     display = multiprocessing.Process(target=output, args=(queue, sta_list))
