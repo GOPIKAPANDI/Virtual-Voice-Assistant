@@ -8,54 +8,14 @@ from pathlib import Path
 import multiprocessing
 
 sta_list = [
-    '10.74.143.59', '10.74.143.39', '10.74.143.29', '10.74.143.44', '10.74.140.30', '10.74.143.46', 
-    '10.74.143.36', 
-    '10.74.143.34', 
-    '10.74.143.22',
-      '10.74.143.23', 
-    '10.74.143.43', '10.74.143.228', '10.74.143.35',  '10.74.143.228',
-    '10.74.143.56', '10.74.140.68', '10.74.143.38',  '10.74.140.24',     
-    '10.74.140.22', '10.74.140.25', '10.74.143.207', '10.74.143.195',
-    '10.74.143.37', '10.74.143.40', '10.74.143.17',
-    '10.74.143.47', '10.74.143.182', '10.74.140.74', '10.74.143.42', '10.74.140.31', '10.74.143.41',
-    '10.74.140.43', '10.74.143.31', '10.74.140.72'
+    ip_list
 ]
 
 # IP address to device name mapping
 device_mapping = {
-    '10.74.143.59': 'device1',
-    '10.74.143.39': 'device2',
-    '10.74.143.29': 'device3',
-    '10.74.143.44': 'device4',
-    '10.74.140.30': 'device5',
-    '10.74.143.46': 'device6',
-    '10.74.143.36': 'device7',
-    '10.74.143.34': 'device8',
-    '10.74.143.22': 'device9',
-    '10.74.143.23': 'device10',
-    '10.74.143.43': 'device11',
-    '10.74.143.228': 'device12',
-    '10.74.143.35': 'device13',
-    '10.74.143.56': 'device14',
-    '10.74.140.68': 'device15',
-    '10.74.143.38': 'device16',
-    '10.74.140.24': 'device17',
-    '10.74.140.22': 'device18',
-    '10.74.140.25': 'device19',
-    '10.74.143.207': 'device20',
-    '10.74.143.195': 'device21',
-    '10.74.143.37': 'device22',
-    '10.74.143.40': 'device23',
-    '10.74.143.17': 'device24',
-    '10.74.143.47': 'device25',
-    '10.74.143.182': 'device26',
-    '10.74.140.74': 'device27',
-    '10.74.143.42': 'device28',
-    '10.74.140.31': 'device29',
-    '10.74.143.41': 'device30',
-    '10.74.140.43': 'device31',
-    '10.74.143.31': 'device32',
-    '10.74.140.72': 'device33'
+    'ip1': 'device1',
+    'ip2': 'device2',
+    'ip3': 'device3'
 }
 
 
@@ -114,9 +74,9 @@ def ssid_main():
     ssid = "!!!!!!!!!!!!!!!!!!!!!!Uni china"
     name = "!!!!!!!!!!!!!!!!!!!!!!Uni china"
     profile_name = "profile-Uni-China"
-    folder_name = r"C:\Users\gr1073\OneDrive - CommScope\Documents\AI_Model_Copy1"
-    xml_file_path = r"C:\Users\gr1073\OneDrive - CommScope\Documents\AI_Model_Copy1\Wi-Fi-Uni China.xml"
-    batch_file_path = r"C:\Users\gr1073\OneDrive - CommScope\Documents\AI_Model_Copy1\profile-Uni-China.bat"
+    folder_name = r"C:\AI_Model_Copy1"
+    xml_file_path = r"C:\AI_Model_Copy1\Wi-Fi-Uni China.xml"
+    batch_file_path = r"C:\AI_Model_Copy1\profile-Uni-China.bat"
 
     queue = multiprocessing.Queue()
     display = multiprocessing.Process(target=output, args=(queue, sta_list))
