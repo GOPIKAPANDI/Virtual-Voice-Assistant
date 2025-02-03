@@ -11,38 +11,47 @@
 2024-09-24 16:04:55,744 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-24 16:04:56,199 - INFO - Authentication (none) successful!
 2024-09-24 16:04:56,431 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-24 16:04:56,934 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-24 16:04:56,934 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-24 16:04:57,150 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:04:57,415 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+2024-09-24 16:04:57,150 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:04:57,478 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-24 16:04:57,541 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-24 16:04:57,415 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+
+2024-09-24 16:04:57,478 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-24 16:04:57,541 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-24 16:04:57,651 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-24 16:05:20,651 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-24 16:05:20,995 - INFO - Authentication (none) successful!
 2024-09-24 16:05:21,290 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-24 16:05:21,587 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-24 16:05:21,587 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-24 16:05:21,806 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:05:22,168 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get countrycode
+2024-09-24 16:05:21,806 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:05:22,277 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-24 16:05:22,355 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-24 16:05:22,168 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get countrycode
+
+
+2024-09-24 16:05:22,277 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-24 16:05:22,355 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-24 16:05:22,467 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-24 16:05:41,440 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-24 16:05:41,718 - INFO - Authentication (none) successful!
 2024-09-24 16:05:42,079 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-24 16:05:42,439 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-24 16:05:42,439 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-24 16:05:42,658 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:05:42,862 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get uptime
+2024-09-24 16:05:42,658 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:05:43,050 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-24 16:05:43,114 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-24 16:05:42,862 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get uptime
+
+
+2024-09-24 16:05:43,050 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-24 16:05:43,114 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-24 16:05:43,207 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-24 16:09:18,811 - INFO - This is an info message
 2024-09-24 16:09:18,811 - WARNING - This is a warning message
@@ -52,50 +61,62 @@
 2024-09-24 16:09:30,002 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-24 16:09:30,282 - INFO - Authentication (none) successful!
 2024-09-24 16:09:30,592 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-24 16:09:30,951 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-24 16:09:30,951 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-24 16:09:31,153 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:09:31,385 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+2024-09-24 16:09:31,153 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:09:31,448 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-24 16:09:31,494 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-24 16:09:31,385 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+
+2024-09-24 16:09:31,448 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-24 16:09:31,494 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-24 16:09:31,586 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-24 16:09:47,623 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-24 16:09:47,953 - INFO - Authentication (none) successful!
 2024-09-24 16:09:48,311 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-24 16:09:48,640 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-24 16:09:48,640 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-24 16:09:48,842 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:09:49,471 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get countrycode
+2024-09-24 16:09:48,842 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:09:49,517 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-24 16:09:49,563 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-24 16:09:49,471 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get countrycode
+
+
+2024-09-24 16:09:49,517 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-24 16:09:49,563 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-24 16:09:49,672 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-24 16:10:23,351 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-24 16:10:23,538 - INFO - Authentication (none) successful!
 2024-09-24 16:10:23,894 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-24 16:10:24,224 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-24 16:10:24,224 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-24 16:10:24,426 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:10:24,956 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+2024-09-24 16:10:24,426 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:10:25,269 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-24 16:10:25,332 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-24 16:10:24,956 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+
+2024-09-24 16:10:25,269 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-24 16:10:25,332 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-24 16:10:25,394 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-24 16:10:40,544 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-24 16:10:40,917 - INFO - Authentication (none) successful!
 2024-09-24 16:10:41,241 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-24 16:10:41,537 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-24 16:10:41,537 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-24 16:10:41,678 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:10:42,067 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get ipaddr wan
+2024-09-24 16:10:41,678 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-24 16:10:42,431 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-24 16:10:42,492 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-24 16:10:42,067 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get ipaddr wan
+
+
+2024-09-24 16:10:42,431 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-24 16:10:42,492 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-24 16:10:42,538 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-24 18:08:33,042 - INFO - This is an info message
 2024-09-24 18:08:33,042 - WARNING - This is a warning message
@@ -320,50 +341,62 @@
 2024-09-25 14:43:27,670 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-25 14:43:28,137 - INFO - Authentication (none) successful!
 2024-09-25 14:43:28,446 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-25 14:43:28,811 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-25 14:43:28,811 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-25 14:43:29,055 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:43:29,305 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+2024-09-25 14:43:29,055 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:43:29,369 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.56
-2024-09-25 14:43:29,399 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.56...
+
+2024-09-25 14:43:29,305 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+
+2024-09-25 14:43:29,369 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-25 14:43:29,399 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-25 14:43:29,470 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-25 14:43:46,820 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-25 14:43:47,103 - INFO - Authentication (none) successful!
 2024-09-25 14:43:47,318 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-25 14:43:47,595 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-25 14:43:47,595 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-25 14:43:47,790 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:43:48,235 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get countrycode
+2024-09-25 14:43:47,790 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:43:48,481 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-25 14:43:48,536 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-25 14:43:48,235 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get countrycode
+
+
+2024-09-25 14:43:48,481 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-25 14:43:48,536 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-25 14:43:48,631 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-25 14:44:02,186 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-25 14:44:02,568 - INFO - Authentication (none) successful!
 2024-09-25 14:44:02,741 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-25 14:44:03,078 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-25 14:44:03,078 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-25 14:44:03,280 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:44:03,464 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get uptime
+2024-09-25 14:44:03,280 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:44:03,503 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.38
-2024-09-25 14:44:03,553 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.38...
+
+2024-09-25 14:44:03,464 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get uptime
+
+
+2024-09-25 14:44:03,503 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-25 14:44:03,553 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-25 14:44:03,653 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-25 14:44:20,052 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-25 14:44:20,453 - INFO - Authentication (none) successful!
 2024-09-25 14:44:20,702 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-25 14:44:20,952 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-25 14:44:20,952 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-25 14:44:21,103 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:44:21,368 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+2024-09-25 14:44:21,103 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:44:21,413 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.56
-2024-09-25 14:44:21,485 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.56...
+
+2024-09-25 14:44:21,368 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+
+2024-09-25 14:44:21,413 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-25 14:44:21,485 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-25 14:44:21,552 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-25 14:48:11,312 - INFO - This is an info message
 2024-09-25 14:48:11,313 - WARNING - This is a warning message
@@ -373,14 +406,17 @@
 2024-09-25 14:48:21,653 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-25 14:48:21,920 - INFO - Authentication (none) successful!
 2024-09-25 14:48:22,202 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-25 14:48:22,600 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-25 14:48:22,600 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-25 14:48:22,765 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:48:23,085 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+2024-09-25 14:48:22,765 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:48:23,110 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-25 14:48:23,178 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-25 14:48:23,085 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+
+2024-09-25 14:48:23,110 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-25 14:48:23,178 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-25 14:48:23,237 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-25 14:49:26,013 - INFO - This is an info message
 2024-09-25 14:49:26,028 - WARNING - This is a warning message
@@ -390,14 +426,17 @@
 2024-09-25 14:49:34,568 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-25 14:49:35,014 - INFO - Authentication (none) successful!
 2024-09-25 14:49:35,399 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-25 14:49:35,643 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-25 14:49:35,643 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-25 14:49:35,807 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:49:36,191 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+2024-09-25 14:49:35,807 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:49:36,299 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-25 14:49:36,368 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-25 14:49:36,191 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+
+2024-09-25 14:49:36,299 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-25 14:49:36,368 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-25 14:49:36,435 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-25 14:51:43,231 - INFO - This is an info message
 2024-09-25 14:51:43,231 - WARNING - This is a warning message
@@ -407,62 +446,77 @@
 2024-09-25 14:51:51,389 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-25 14:51:51,847 - INFO - Authentication (none) successful!
 2024-09-25 14:51:52,194 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-25 14:51:52,585 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-25 14:51:52,585 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-25 14:51:52,772 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:51:53,039 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+2024-09-25 14:51:52,772 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:51:53,106 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-25 14:51:53,164 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-25 14:51:53,039 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+
+2024-09-25 14:51:53,106 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-25 14:51:53,164 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-25 14:51:53,249 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-25 14:52:07,489 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-25 14:52:07,970 - INFO - Authentication (none) successful!
 2024-09-25 14:52:08,255 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-25 14:52:08,575 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-25 14:52:08,575 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-25 14:52:08,823 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:52:08,995 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get countrycode
+2024-09-25 14:52:08,823 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:52:09,072 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-25 14:52:09,130 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-25 14:52:08,995 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get countrycode
+
+
+2024-09-25 14:52:09,072 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-25 14:52:09,130 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-25 14:52:09,205 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-25 14:52:21,105 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-25 14:52:21,513 - INFO - Authentication (none) successful!
 2024-09-25 14:52:21,736 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-25 14:52:21,930 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-25 14:52:21,930 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-25 14:52:22,138 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:52:22,772 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+2024-09-25 14:52:22,138 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:52:22,838 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-25 14:52:22,888 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-25 14:52:22,772 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+
+2024-09-25 14:52:22,838 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-25 14:52:22,888 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-25 14:52:22,995 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-25 14:52:38,454 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-25 14:52:38,779 - INFO - Authentication (none) successful!
 2024-09-25 14:52:39,203 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-25 14:52:39,471 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-25 14:52:39,471 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-25 14:52:39,722 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:52:40,061 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get uptime
+2024-09-25 14:52:39,722 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:52:40,229 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-25 14:52:40,288 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-25 14:52:40,061 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get uptime
+
+
+2024-09-25 14:52:40,229 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-25 14:52:40,288 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-25 14:52:40,379 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-25 14:53:06,279 - INFO - Connected (version 2.0, client OpenSSH_8.4)
 2024-09-25 14:53:06,553 - INFO - Authentication (none) successful!
 2024-09-25 14:53:06,901 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-25 14:53:07,241 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
+2024-09-25 14:53:07,241 - INFO -  | AutoAcc | SshLibraryV2.py:230 | super
 
-2024-09-25 14:53:07,408 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:53:07,686 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get ipaddr wan
+2024-09-25 14:53:07,408 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-25 14:53:07,737 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.66.122
-2024-09-25 14:53:07,787 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.66.122...
+
+2024-09-25 14:53:07,686 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get ipaddr wan
+
+
+2024-09-25 14:53:07,737 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-25 14:53:07,787 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-25 14:53:07,894 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-25 15:00:13,816 - INFO - This is an info message
 2024-09-25 15:00:13,816 - WARNING - This is a warning message
@@ -556,50 +610,62 @@
 2024-09-26 14:28:17,973 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-26 14:28:18,245 - INFO - Authentication (none) successful!
 2024-09-26 14:28:18,463 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-26 14:28:18,696 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-26 14:28:18,696 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-26 14:28:18,817 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 14:28:19,321 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get ipaddr wan
+2024-09-26 14:28:18,817 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 14:28:19,353 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.56
-2024-09-26 14:28:19,394 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.56...
+
+2024-09-26 14:28:19,321 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get ipaddr wan
+
+
+2024-09-26 14:28:19,353 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-26 14:28:19,394 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-26 14:28:19,466 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-26 14:28:48,794 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-26 14:28:48,939 - INFO - Authentication (none) successful!
 2024-09-26 14:28:49,116 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-26 14:28:49,436 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-26 14:28:49,436 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-26 14:28:49,548 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 14:28:49,862 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+2024-09-26 14:28:49,548 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 14:28:49,910 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.56
-2024-09-26 14:28:49,950 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.56...
+
+2024-09-26 14:28:49,862 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+
+2024-09-26 14:28:49,910 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-26 14:28:49,950 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-26 14:28:49,992 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-26 14:30:30,153 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-26 14:30:30,398 - INFO - Authentication (none) successful!
 2024-09-26 14:30:30,696 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-26 14:30:30,970 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-26 14:30:30,970 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-26 14:30:31,175 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 14:30:31,375 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+2024-09-26 14:30:31,175 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 14:30:31,736 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.38
-2024-09-26 14:30:31,792 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.38...
+
+2024-09-26 14:30:31,375 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+
+2024-09-26 14:30:31,736 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-26 14:30:31,792 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-26 14:30:31,841 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-26 14:33:16,582 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-26 14:33:16,800 - INFO - Authentication (none) successful!
 2024-09-26 14:33:17,080 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-26 14:33:17,345 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-26 14:33:17,345 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-26 14:33:17,533 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 14:33:17,894 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+2024-09-26 14:33:17,533 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 14:33:17,958 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.38
-2024-09-26 14:33:18,006 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.38...
+
+2024-09-26 14:33:17,894 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+
+2024-09-26 14:33:17,958 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-26 14:33:18,006 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-26 14:33:18,142 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-26 16:00:04,683 - INFO - This is an info message
 2024-09-26 16:00:04,683 - WARNING - This is a warning message
@@ -609,14 +675,17 @@
 2024-09-26 16:00:15,178 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-26 16:00:15,461 - INFO - Authentication (none) successful!
 2024-09-26 16:00:15,728 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-26 16:00:16,109 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-26 16:00:16,109 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-26 16:00:16,273 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 16:00:16,549 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+2024-09-26 16:00:16,273 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 16:00:16,581 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-26 16:00:16,645 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+
+2024-09-26 16:00:16,549 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+
+
+2024-09-26 16:00:16,581 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-26 16:00:16,645 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-26 16:00:16,770 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-26 16:02:51,057 - INFO - This is an info message
 2024-09-26 16:02:51,058 - WARNING - This is a warning message
@@ -626,38 +695,47 @@
 2024-09-26 16:02:59,154 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-26 16:02:59,498 - INFO - Authentication (none) successful!
 2024-09-26 16:02:59,652 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-26 16:02:59,887 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-26 16:02:59,887 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-26 16:03:00,092 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 16:03:00,202 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+2024-09-26 16:03:00,092 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 16:03:00,264 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-26 16:03:00,312 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+
+2024-09-26 16:03:00,202 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+
+
+2024-09-26 16:03:00,264 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-26 16:03:00,312 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-26 16:03:00,390 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-26 16:03:14,359 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-26 16:03:14,862 - INFO - Authentication (none) successful!
 2024-09-26 16:03:15,079 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-26 16:03:15,346 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-26 16:03:15,346 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-26 16:03:15,614 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 16:03:15,958 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+2024-09-26 16:03:15,614 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 16:03:16,021 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-26 16:03:16,067 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+
+2024-09-26 16:03:15,958 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+
+
+2024-09-26 16:03:16,021 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-26 16:03:16,067 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-26 16:03:16,161 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-26 16:03:48,224 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-26 16:03:48,567 - INFO - Authentication (none) successful!
 2024-09-26 16:03:48,952 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-26 16:03:49,157 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-26 16:03:49,157 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-26 16:03:49,313 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 16:03:49,615 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+2024-09-26 16:03:49,313 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-26 16:03:49,662 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-26 16:03:49,709 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+
+2024-09-26 16:03:49,615 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get channel wifi1
+
+
+2024-09-26 16:03:49,662 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-26 16:03:49,709 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-26 16:03:49,818 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-26 20:11:38,037 - INFO - This is an info message
 2024-09-26 20:11:38,037 - WARNING - This is a warning message
@@ -707,14 +785,16 @@
 2024-09-28 10:12:58,679 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-28 10:12:59,130 - INFO - Authentication (none) successful!
 2024-09-28 10:12:59,397 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-28 10:12:59,704 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-28 10:12:59,704 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-28 10:12:59,865 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-28 10:12:59,865 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
 
 2024-09-28 10:13:19,427 - ERROR -  | AutoAcc | SshLibraryV2.py:153 | EOF recvd on channel
-2024-09-28 10:13:19,455 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP: 10.174.122.37  username: admin  password: Lab4man!@#
-2024-09-28 10:13:19,505 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-28 10:13:19,531 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-28 10:13:19,455 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP: ip_addr  username: admin  password: Lab4man!@#
+2024-09-28 10:13:19,505 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-28 10:13:19,531 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-28 10:13:19,604 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-28 10:13:48,306 - INFO - This is an info message
 2024-09-28 10:13:48,306 - WARNING - This is a warning message
@@ -724,14 +804,16 @@
 2024-09-28 10:14:16,203 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-28 10:14:16,451 - INFO - Authentication (none) successful!
 2024-09-28 10:14:16,816 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-28 10:14:17,099 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-28 10:14:17,099 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-28 10:14:17,367 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-28 10:14:17,367 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
 
 2024-09-28 10:14:36,722 - ERROR -  | AutoAcc | SshLibraryV2.py:153 | EOF recvd on channel
-2024-09-28 10:14:36,740 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP: 10.174.122.37  username: admin  password: Lab4man!@#
-2024-09-28 10:14:36,762 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-28 10:14:36,785 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-28 10:14:36,740 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP: ip_addr  username: admin  password: Lab4man!@#
+2024-09-28 10:14:36,762 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-28 10:14:36,785 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-28 10:14:36,857 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-28 10:16:56,027 - INFO - This is an info message
 2024-09-28 10:16:56,027 - WARNING - This is a warning message
@@ -746,38 +828,47 @@
 2024-09-28 10:18:41,562 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-28 10:18:42,025 - INFO - Authentication (none) successful!
 2024-09-28 10:18:42,408 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-28 10:18:42,810 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-28 10:18:42,810 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-28 10:18:42,963 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-28 10:18:43,126 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+2024-09-28 10:18:42,963 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-28 10:18:43,179 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-28 10:18:43,229 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+
+2024-09-28 10:18:43,126 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+
+2024-09-28 10:18:43,179 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-28 10:18:43,229 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-28 10:18:43,320 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-28 10:19:08,026 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-28 10:19:08,335 - INFO - Authentication (none) successful!
 2024-09-28 10:19:08,683 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-28 10:19:08,945 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-28 10:19:08,945 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-28 10:19:09,236 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-28 10:19:09,503 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get ipaddr wan
+2024-09-28 10:19:09,236 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-28 10:19:09,659 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-28 10:19:09,728 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+
+2024-09-28 10:19:09,503 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get ipaddr wan
+
+
+2024-09-28 10:19:09,659 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-28 10:19:09,728 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-28 10:19:09,835 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-28 10:19:24,042 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-28 10:19:24,473 - INFO - Authentication (none) successful!
 2024-09-28 10:19:24,842 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-28 10:19:25,227 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-28 10:19:25,227 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-28 10:19:25,536 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-28 10:19:25,743 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+2024-09-28 10:19:25,536 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-28 10:19:25,781 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-28 10:19:25,844 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+
+2024-09-28 10:19:25,743 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+
+
+2024-09-28 10:19:25,781 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-28 10:19:25,844 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ip_addr
 2024-09-28 10:19:25,960 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-28 11:57:19,588 - INFO - This is an info message
 2024-09-28 11:57:19,588 - WARNING - This is a warning message
@@ -857,14 +948,16 @@
 2024-09-30 09:40:01,606 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-30 09:40:02,009 - INFO - Authentication (none) successful!
 2024-09-30 09:40:02,132 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-30 09:40:02,585 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-30 09:40:02,585 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-30 09:40:02,825 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
+2024-09-30 09:40:02,825 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
+
 
 2024-09-30 09:40:22,157 - ERROR -  | AutoAcc | SshLibraryV2.py:153 | EOF recvd on channel
-2024-09-30 09:40:22,193 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP: 10.174.122.37  username: admin  password: Ruckus1!
-2024-09-30 09:40:22,243 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-30 09:40:22,293 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+2024-09-30 09:40:22,193 - ERROR -  | AutoAcc | ApCliV2.py:56 | SSH Failed to login to AP. IP: ip_addr  username: admin  password: pw
+2024-09-30 09:40:22,243 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: ip_addr
+2024-09-30 09:40:22,293 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ...
 2024-09-30 09:40:22,393 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-30 09:41:29,274 - INFO - This is an info message
 2024-09-30 09:41:29,274 - WARNING - This is a warning message
@@ -874,14 +967,17 @@
 2024-09-30 09:42:00,165 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-30 09:42:00,612 - INFO - Authentication (none) successful!
 2024-09-30 09:42:00,913 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-30 09:42:01,297 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-30 09:42:01,297 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-30 09:42:01,463 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-30 09:42:01,628 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get wlanlist
+2024-09-30 09:42:01,463 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-30 09:42:03,207 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-30 09:42:03,257 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+
+2024-09-30 09:42:01,628 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get wlanlist
+
+
+2024-09-30 09:42:03,207 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 
+2024-09-30 09:42:03,257 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: ...
 2024-09-30 09:42:03,298 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-30 10:03:26,250 - INFO - This is an info message
 2024-09-30 10:03:26,266 - WARNING - This is a warning message
@@ -891,14 +987,17 @@
 2024-09-30 10:03:38,371 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-30 10:03:38,654 - INFO - Authentication (none) successful!
 2024-09-30 10:03:38,874 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-30 10:03:39,271 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-30 10:03:39,271 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-30 10:03:39,395 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-30 10:03:39,578 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+2024-09-30 10:03:39,395 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-30 10:03:39,939 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-30 10:03:39,996 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+
+2024-09-30 10:03:39,578 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+
+2024-09-30 10:03:39,939 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 
+2024-09-30 10:03:39,996 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 
 2024-09-30 10:03:40,071 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-30 10:10:26,679 - INFO - This is an info message
 2024-09-30 10:10:26,679 - WARNING - This is a warning message
@@ -908,26 +1007,32 @@
 2024-09-30 10:10:37,006 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-30 10:10:37,232 - INFO - Authentication (none) successful!
 2024-09-30 10:10:37,548 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-30 10:10:37,733 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-30 10:10:37,733 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-30 10:10:37,986 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-30 10:10:38,154 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+2024-09-30 10:10:37,986 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-30 10:10:38,255 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-30 10:10:38,273 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+
+2024-09-30 10:10:38,154 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get version
+
+
+2024-09-30 10:10:38,255 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 
+2024-09-30 10:10:38,273 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 
 2024-09-30 10:10:38,427 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-30 10:11:10,509 - INFO - Connected (version 2.0, client OpenSSH_9.6)
 2024-09-30 10:11:10,841 - INFO - Authentication (none) successful!
 2024-09-30 10:11:11,062 - INFO -  | AutoAcc | SshLibraryV2.py:130 | Connect: Waiting for prompt: Please login:
-2024-09-30 10:11:11,343 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
+2024-09-30 10:11:11,343 - INFO -  | AutoAcc | SshLibraryV2.py:230 | admin
 
-2024-09-30 10:11:11,503 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-30 10:11:11,553 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+2024-09-30 10:11:11,503 - INFO -  | AutoAcc | SshLibraryV2.py:230 | 
 
-2024-09-30 10:11:11,597 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 10.174.122.37
-2024-09-30 10:11:11,653 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 10.174.122.37...
+
+2024-09-30 10:11:11,553 - INFO -  | AutoAcc | SshLibraryV2.py:230 | get client-info
+
+
+2024-09-30 10:11:11,597 - INFO -  | AutoAcc | SshLibraryV2.py:243 | Shutdown ssh channel to server: 
+2024-09-30 10:11:11,653 - INFO -  | AutoAcc | SshLibraryV2.py:245 | Closing ssh to server: 
 2024-09-30 10:11:11,747 - INFO -  | AutoAcc | SshLibraryV2.py:250 | Closed ssh to server: None...
 2024-09-30 14:14:11,793 - INFO - This is an info message
 2024-09-30 14:14:11,809 - WARNING - This is a warning message
