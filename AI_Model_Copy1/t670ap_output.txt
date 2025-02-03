@@ -1,21 +1,34 @@
 get version
-Ruckus T670 Multimedia Hotzone Wireless AP
-Version: 7.0.0.0.6399
-OK
-[Jrkscli: 
+Ruckus T670 Multimedia Hotzone Wireless AP
+
+Version: 7.0.0.0.6399
+
+OK
+
+
+[Jrkscli: 
 
 get channel wifi1
-wifi1 Channel: 60 (5300 Mhz) (Manual Channel Select)
-OK
-[Jrkscli: 
+wifi1 Channel: 60 (5300 Mhz) (Manual Channel Select)
+
+OK
+
+
+[Jrkscli: 
 
 get ipaddr wan
-IP Address: (dynamic, vlan 1), IP: 10.174.122.56  Netmask 255.255.252.0  Gateway 10.174.120.1
-OK
-[Jrkscli: 
+IP Address: (dynamic, vlan 1), IP: ip  Netmask 255.255.252.0  Gateway ___
+
+OK
+
+
+[Jrkscli: 
 
 get channel wifi1
-*** Radio Off (no WLAN is enabled)
-OK
-[Jrkscli: 
+*** Radio Off (no WLAN is enabled)
+
+OK
+
+
+[Jrkscli: 
 
