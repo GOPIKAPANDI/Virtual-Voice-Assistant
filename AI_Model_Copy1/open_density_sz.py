@@ -7,8 +7,8 @@ from selenium.webdriver.common.by import By
 
 def open_browser():
     # Use predefined username and password
-    username = "admin"
-    password = "ruckus!@#$5"
+    username = "un"
+    password = "pw"
 
     # Set Chrome options to ignore SSL certificate errors
     chrome_options = Options()
@@ -21,7 +21,7 @@ def open_browser():
     driver = webdriver.Chrome(service=service, options=chrome_options)
 
     # Open the browser and navigate to the login page
-    url = "https://10.174.67.31:8443/cas/login?service=%2Fwsg%2Flogin%2Fcas"
+    url = "https://ip:8443/cas/login?service=%2Fwsg%2Flogin%2Fcas"
     driver.get(url)
 
     # Fill in the username and password fields
@@ -41,7 +41,7 @@ def open_browser():
         time.sleep(7)
         
         # https://10.174.67.31:8443/wsg/#m/accessPoint
-        driver.get("https://10.174.67.31:8443/wsg/#m/accessPoint")
+        driver.get("https://ip:8443/wsg/#m/accessPoint")
 
         # Keep the browser open
         while True:
