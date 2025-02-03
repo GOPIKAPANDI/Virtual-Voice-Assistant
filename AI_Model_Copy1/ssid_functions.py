@@ -41,7 +41,7 @@ def update_script_content(script_content, ssid_name):
 
 # def connect_to_hd_ms_teams(ssid_name):
 #     ssid_name = normalize_ssid(ssid_name)
-#     target_directory = r'C:\Users\gr1073\OneDrive - CommScope\Documents\AI_Model_Copy'
+#     target_directory = r'C:\AI_Model_Copy'
     
 #     try:
 #         # Open Command Prompt in the target directory and run the script
@@ -57,7 +57,7 @@ def update_script_content(script_content, ssid_name):
 
 def connect_to_hd_ms_teams(ssid_name):
     ssid_name = normalize_ssid(ssid_name)
-    target_directory = r'C:\Users\gr1073\OneDrive - CommScope\Documents\AI_Model_Copy1'
+    target_directory = r'C:\AI_Model_Copy1'
     
     try:
         # Change the working directory to the target directory
@@ -85,7 +85,7 @@ def connectToSSID(ssid_name):
     # ssid_name = get_ssid_name()
 
     # Update the script with new SSID
-    script_path = r'C:\Users\gr1073\OneDrive - CommScope\Documents\AI_Model_Copy1\ssid_script.py'
+    script_path = r'C:\AI_Model_Copy1\ssid_script.py'
     with open(script_path, 'r') as file:
         script_content = file.read()
           
