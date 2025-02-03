@@ -16,7 +16,7 @@ def log_output_r370(command, output):
         f.write(f"{command}\n{output}\n\n")
 
 def get_r370ap_version():
-    apcli.login(ip="10.174.66.122", username="super", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="super", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get version")
     apcli.logout()
     
@@ -29,7 +29,7 @@ def get_r370ap_version():
     return "Unknown version"
 
 def get_r370ap_country_code():
-    apcli.login(ip="10.174.66.122", username="super", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="super", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get countrycode")
     apcli.logout()
     
@@ -42,7 +42,7 @@ def get_r370ap_country_code():
     return "Unknown country code"
 
 def get_r370ap_channel_wifi1():
-    apcli.login(ip="10.174.66.122", username="super", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="super", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get channel wifi1")
     apcli.logout()
     
@@ -57,7 +57,7 @@ def get_r370ap_channel_wifi1():
     return "Unknown channel"
 
 def get_r370ap_uptime():
-    apcli.login(ip="10.174.66.122", username="super", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="super", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get uptime")
     apcli.logout()
     
@@ -70,7 +70,7 @@ def get_r370ap_uptime():
     return "Unknown uptime"
 
 def get_r370ap_ip_address_wan():
-    apcli.login(ip="10.174.66.122", username="super", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="super", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get ipaddr wan")
     apcli.logout()
     
@@ -96,7 +96,7 @@ def log_output_t670(command, output):
         f.write(f"{command}\n{output}\n\n")
 
 def get_t670ap_version():
-    apcli.login(ip="10.174.122.56", username="admin", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="admin", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get version")
     apcli.logout()
     
@@ -109,7 +109,7 @@ def get_t670ap_version():
     return "Unknown version"
 
 def get_t670ap_country_code():
-    apcli.login(ip="10.174.122.56", username="admin", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="admin", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get countrycode")
     apcli.logout()
     
@@ -122,7 +122,7 @@ def get_t670ap_country_code():
     return "Unknown country code"
 
 def get_t670ap_channel_wifi1():
-    apcli.login(ip="10.174.122.56", username="admin", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="admin", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get channel wifi1")
     apcli.logout()
     
@@ -137,7 +137,7 @@ def get_t670ap_channel_wifi1():
     return "Unknown channel"
 
 def get_t670ap_uptime():
-    apcli.login(ip="10.174.122.56", username="admin", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="admin", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get uptime")
     apcli.logout()
     
@@ -150,7 +150,7 @@ def get_t670ap_uptime():
     return "Unknown uptime"
 
 def get_t670ap_ip_address_wan():
-    apcli.login(ip="10.174.122.56", username="admin", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="admin", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get ipaddr wan")
     apcli.logout()
     
@@ -173,7 +173,7 @@ def log_output_r760(command, output):
         f.write(f"{command}\n{output}\n\n")
 
 def get_r760ap_version():
-    apcli.login(ip="10.174.122.38", username="admin", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="admin", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get version")
     apcli.logout()
     
@@ -186,7 +186,7 @@ def get_r760ap_version():
     return "Unknown version"
 
 def get_r760ap_country_code():
-    apcli.login(ip="10.174.122.38", username="admin", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="admin", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get countrycode")
     apcli.logout()
     
@@ -199,7 +199,7 @@ def get_r760ap_country_code():
     return "Unknown country code"
 
 def get_r760ap_channel_wifi1():
-    apcli.login(ip="10.174.122.38", username="admin", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="admin", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get channel wifi1")
     apcli.logout()
     
@@ -214,7 +214,7 @@ def get_r760ap_channel_wifi1():
     return "Unknown channel"
 
 def get_r760ap_uptime():
-    apcli.login(ip="10.174.122.38", username="admin", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="admin", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get uptime")
     apcli.logout()
     
@@ -227,7 +227,7 @@ def get_r760ap_uptime():
     return "Unknown uptime"
 
 def get_r760ap_ip_address_wan():
-    apcli.login(ip="10.174.122.38", username="admin", password="Ruckus1!")
+    apcli.login(ip="ip_addr", username="admin", password="Ruckus1!")
     result = apcli.execute_rkscli_cmd("get ipaddr wan")
     apcli.logout()
     
@@ -252,7 +252,7 @@ def log_output_r770(command, output):
         f.write(f"{command}\n{output}\n\n")
 
 def get_r770ap_version():
-    apcli.login(ip="10.174.122.37", username="admin", password="Lab4man!@#")
+    apcli.login(ip="ip_addr", username="admin", password="Lab4man!@#")
     result = apcli.execute_rkscli_cmd("get version")
     apcli.logout()
     
@@ -265,7 +265,7 @@ def get_r770ap_version():
     return "Unknown version"
 
 def get_r770ap_country_code():
-    apcli.login(ip="10.174.122.37", username="admin", password="Lab4man!@#")
+    apcli.login(ip="ip_addr", username="admin", password="Lab4man!@#")
     result = apcli.execute_rkscli_cmd("get countrycode")
     apcli.logout()
     
@@ -278,7 +278,7 @@ def get_r770ap_country_code():
     return "Unknown country code"
 
 def get_r770ap_channel_wifi1():
-    apcli.login(ip="10.174.122.37", username="admin", password="Lab4man!@#")
+    apcli.login(ip="ip_addr", username="admin", password="Lab4man!@#")
     result = apcli.execute_rkscli_cmd("get channel wifi1")
     apcli.logout()
     
@@ -293,7 +293,7 @@ def get_r770ap_channel_wifi1():
     return "Unknown channel"
 
 def get_r770ap_uptime():
-    apcli.login(ip="10.174.122.37", username="admin", password="Lab4man!@#")
+    apcli.login(ip="ip_addr", username="admin", password="Lab4man!@#")
     result = apcli.execute_rkscli_cmd("get uptime")
     apcli.logout()
     
@@ -306,7 +306,7 @@ def get_r770ap_uptime():
     return "Unknown uptime"
 
 def get_r770ap_ip_address_wan():
-    apcli.login(ip="10.174.122.37", username="admin", password="Lab4man!@#")
+    apcli.login(ip="ip_addr", username="admin", password="Lab4man!@#")
     result = apcli.execute_rkscli_cmd("get ipaddr wan")
     apcli.logout()
     
@@ -319,7 +319,7 @@ def get_r770ap_ip_address_wan():
     return "Unknown IP address"
 
 def get_r770ap_client_info():
-    apcli.login(ip="10.174.122.37", username="admin", password="Lab4man!@#")
+    apcli.login(ip="ip_addr", username="admin", password="Lab4man!@#")
     result = apcli.execute_rkscli_cmd("get client-info")
     apcli.logout()
     
@@ -344,7 +344,7 @@ def get_r770ap_client_info():
 #     return "Unknown number of clients"
 
 def get_r770ap_ssid_info():
-    apcli.login(ip="10.174.122.37", username="admin", password="Lab4man!@#")
+    apcli.login(ip="ip_addr", username="admin", password="Lab4man!@#")
     result = apcli.execute_rkscli_cmd("get wlanlist")
     apcli.logout()
     
